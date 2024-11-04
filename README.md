@@ -1,6 +1,8 @@
 # tienda-de-ropa
 Propósito del Código
-El proyecto es un sistema de compra de ropa diseñado con principios de Programación Orientada a Objetos (POO). Permite al usuario seleccionar y comprar distintos artículos de ropa de una tienda virtual. Los objetivos específicos del proyecto incluyen demostrar el uso de los pilares de POO (encapsulamiento, herencia, polimorfismo y abstracción) y facilitar la gestión de productos mediante clases.
+El proyecto es un sistema de compra de ropa diseñado con principios de Programación Orientada a Objetos (POO). Permite al usuario seleccionar y comprar distintos artículos de ropa de una tienda virtual. Los objetivos específicos del proyecto incluyen demostrar el uso de los pilares de POO (encapsulamiento, herencia, polimorfismo y abstracción) y facilitar la gestión de productos mediante clases.	
+
+
 Instrucciones para el Usuario
 1.iniciar le programa:
 Se puede iniciar haciendo doble clic en el archivo "tienda de ropa.py" o abriendo una terminar y escirbir:"python tienda de ropas.py"
